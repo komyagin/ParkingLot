@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of integers/out/
+/Problems/Initializing an array of integers/out/production/classes/
+/Problems/Just checking/out/
+/Problems/Just checking/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/Size, min and max/out/
+/Problems/Size, min and max/out/production/classes/
+/Problems/The information about a person/out/
+/Problems/The information about a person/out/production/classes/
