@@ -14,5 +14,9 @@ fun main() {
             println("There is no car in the spot 2.")
         }
     }
+}
+
+fun check() {
 
 }
+
