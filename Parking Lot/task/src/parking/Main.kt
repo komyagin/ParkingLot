@@ -25,3 +25,7 @@ fun main() {
 fun check(array: IntArray): Boolean {
     return true;
 }
+
+fun park(lot: Int) {
+
+}
