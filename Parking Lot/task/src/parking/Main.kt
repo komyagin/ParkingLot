@@ -29,3 +29,7 @@ fun check(array: IntArray): Boolean {
 fun park(lot: Int) {
 
 }
+
+fun leave(lot: Int) {
+
+}
